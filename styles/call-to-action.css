@@ -1,5 +1,9 @@
 .call-to-action {
-    margin-top: 40px;
+    padding: 100px 0px;
+    box-sizing: border-box;
+}
+
+.call-to-action-content {
     background-color: #3882F6;
     padding: 40px 180px;
     border-radius: 15px;
