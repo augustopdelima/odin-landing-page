@@ -1,0 +1,39 @@
+.call-to-action {
+    margin-top: 40px;
+    background-color: #3882F6;
+    padding: 40px 180px;
+    border-radius: 15px;
+    display: flex;
+    gap:10px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.call-to-action-sign-up {
+    display: flex;
+    flex-direction: column;
+}
+
+.call-to-action-title {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.call-to-action-title,
+.call-to-action-button {
+    color: #F9FAF8;
+}
+
+.call-to-action-text {
+    color:#E5E7EB
+}
+
+.call-to-action-button {
+    border: 1px #F9FAF8 solid;
+    border-radius: 5px;
+    padding: 2px;
+    width: 120px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #3882F6;
+}
