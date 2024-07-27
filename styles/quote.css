@@ -9,8 +9,10 @@
     justify-content: center;
     padding: 40px;
     margin-top: 40px;
+    width: 100%;
     max-width: 800px;
     gap:4px;
+    box-sizing: border-box;
 }
 
 .quote-text {
