@@ -12,7 +12,8 @@ This project is a simple landing page created to practice HTML and CSS skills. I
 2. Open the `index.html` file in a web browser.
 
 **Deployment (GitHub Pages):**
-This project is already on GitHub Pages, acessible at the following URL:[Odin Landing Page](https://augustopdelima.github.io/odin-landing-page/)
+This project is already on GitHub Pages, acessible at the following URL
+* [Odin Landing Page](https://augustopdelima.github.io/odin-landing-page/)
 
 **Usage:**
 This landing page is designed to showcase different HTML elements and CSS styles.
